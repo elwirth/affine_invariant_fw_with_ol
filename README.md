@@ -1,8 +1,6 @@
-# Acceleration of Frank-Wolfe algorithms with open loop step-sizes
+# Affine-invariant FW
 
-Code for the paper:
-Wirth, E.S., Kerdreux, T., & Pokutta, S. (2022).
-[Acceleration of Frank-Wolfe algorithms with open loop step-sizes](https://arxiv.org/abs/2205.12838).
+
 
 ## Installation guide
 
@@ -15,11 +13,11 @@ Run the command:
 $ conda env create --file environment.yml
 ```
 
-This will create the conda environment open_loop_fw.
+This will create the conda environment affine_invariant_fw.
 
 Activate the conda environment with:
 ```shell script
-$ conda activate open_loop_fw
+$ conda activate affine_invariant_fw
 ```
 Navigate to ~/tmp
 
