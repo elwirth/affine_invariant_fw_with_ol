@@ -1,6 +1,6 @@
 # Affine-invariant FW
 
-
+This repository is built on the [open-loop FW repository](https://github.com/ZIB-IOL/open_loop_fw).
 
 ## Installation guide
 
